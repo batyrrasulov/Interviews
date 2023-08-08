@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogPond", "FrogPond\FrogPond.csproj", "{BEE1BB69-BDEA-4A45-A5A1-89264DBEEDAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{44AE72F0-58B5-41BB-8985-4BF271520F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE1BB69-BDEA-4A45-A5A1-89264DBEEDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE1BB69-BDEA-4A45-A5A1-89264DBEEDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE1BB69-BDEA-4A45-A5A1-89264DBEEDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE1BB69-BDEA-4A45-A5A1-89264DBEEDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AE72F0-58B5-41BB-8985-4BF271520F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AE72F0-58B5-41BB-8985-4BF271520F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AE72F0-58B5-41BB-8985-4BF271520F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AE72F0-58B5-41BB-8985-4BF271520F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
