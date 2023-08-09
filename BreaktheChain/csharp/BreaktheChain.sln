@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreaktheChain", "BreaktheChain\BreaktheChain.csproj", "{DC555E5D-1A9C-48C8-B969-CE69E8427024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{4993F633-ECC9-4F37-8069-D6FAEBABBEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC555E5D-1A9C-48C8-B969-CE69E8427024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC555E5D-1A9C-48C8-B969-CE69E8427024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC555E5D-1A9C-48C8-B969-CE69E8427024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC555E5D-1A9C-48C8-B969-CE69E8427024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4993F633-ECC9-4F37-8069-D6FAEBABBEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4993F633-ECC9-4F37-8069-D6FAEBABBEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4993F633-ECC9-4F37-8069-D6FAEBABBEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4993F633-ECC9-4F37-8069-D6FAEBABBEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

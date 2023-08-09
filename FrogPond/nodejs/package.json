@@ -1,0 +1,24 @@
+{
+  "name": "frog-pond",
+  "version": "0.0.0",
+  "description": "Frog Pond interview question in node format.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://source.calero.com/projects/LIMESTONE/repos/interview-problems/browse"
+  },
+  "author": "Calero LLC",
+  "license": "Proprietary",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "chai": "~3.2.0",
+    "mocha": "~2.2.5",
+    "grunt-mocha-test": "~0.12.7"
+  }
+}
